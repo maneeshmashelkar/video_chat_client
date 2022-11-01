@@ -1,6 +1,6 @@
 # Video Chat App
 
-Video Chat is a web app bulit using React,nodejs,socket.io,webRTC.
+Video Chat is a web app bulit using React, nodejs, socket.io, webRTC.
 
 **DEMO : [Click Here](https://video-chat-mnm.netlify.app/).**
 
